@@ -8,7 +8,7 @@ I forked it and made some changes to make it work with v. 3 of Neo4j.  See my bl
 
 [Neo4j Type Provider blog post](https://marnee.silvrback.com/neo4j-type-provider)
 
-Example Usage
+# Example Usage
 
 First you need to instantiate the type like this. 
 
