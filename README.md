@@ -60,7 +60,7 @@ let sNode, eNode = data |> Seq.head
 
 ```
 
-###Thoughts###
+### Thoughts
 
 This is a nice way to work with your database's schema and it will naturally update as the source database changes.  
 
